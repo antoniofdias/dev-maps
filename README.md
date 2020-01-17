@@ -20,8 +20,8 @@
 
 <p align="center">
   <a href="#rocket-built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#💻-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#🤔-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -57,4 +57,4 @@ After your pull request has been merged, you can delete your branch.
 
 ## :memo: License
 
-This project is under the MIT license. See [LICENSE](LICENSE.md) for more details.
+This project is under the MIT license. See [LICENSE](LICENSE) for more details.
